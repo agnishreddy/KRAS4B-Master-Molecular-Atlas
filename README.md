@@ -2,12 +2,10 @@
 
 A codon-level scientific visualization of KRAS4B that brings together protein architecture, mutation hotspots, nucleotide-to-amino-acid changes, structural logic, signaling consequences, membrane localization, and translational relevance in one place.
 
-<img width="1895" height="990" alt="Screenshot 2026-06-26 150148" src="https://github.com/user-attachments/assets/6d251cc4-c490-47fd-881f-a9a6f8bc4291" />
-<img width="1899" height="995" alt="Screenshot 2026-06-26 150222" src="https://github.com/user-attachments/assets/c37c5052-6388-45ab-9fed-b698ef8223b9" />
-<img width="1892" height="391" alt="Screenshot 2026-06-26 150240" src="https://github.com/user-attachments/assets/3006bdd3-dba4-4bdc-abe3-bf10ed028de6" />
-<img width="1893" height="990" alt="Screenshot 2026-06-26 150203" src="https://github.com/user-attachments/assets/f0c93bb4-02fc-4b0c-a709-a2bcf88753bb" />
-
-
+<img width="1895" height="990" alt="Screenshot 2026-06-26 150148" src="https://github.com/user-attachments/assets/ad1df54f-401c-4099-9010-bca8dae0bd14" />
+<img width="1893" height="990" alt="Screenshot 2026-06-26 150203" src="https://github.com/user-attachments/assets/a3c4c9b7-45e5-4c2a-ae13-aae7998c1707" />
+<img width="1899" height="995" alt="Screenshot 2026-06-26 150222" src="https://github.com/user-attachments/assets/cfbd515e-28fb-49bd-abc1-8b0a1f697f03" />
+<img width="1892" height="391" alt="Screenshot 2026-06-26 150240" src="https://github.com/user-attachments/assets/ad1ae888-0661-4523-8b66-b04bd5636aeb" />
 
 ## Overview
 
