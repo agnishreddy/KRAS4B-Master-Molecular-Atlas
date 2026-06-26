@@ -1,6 +1,10 @@
 # KRAS4B Master Molecular Atlas
 
-A codon-level scientific visualization of KRAS4B that brings together protein architecture, mutation hotspots, nucleotide-to-amino-acid changes, structural logic, signaling consequences, membrane localization, and translational relevance in one place.
+A codon-level scientific visualization of KRAS4B that brings together protein architecture, mutation hotspots, nucleotide-to-amino-acid changes, structural logic, signaling consequences, membrane localization, and translational relevance in one place.<img width="1895" height="990" alt="Screenshot 2026-06-26 150148" src="https://github.com/user-attachments/assets/b56ecf47-4bbb-45bc-ae1a-f2d49c67e428" />
+<img width="1899" height="995" alt="Screenshot 2026-06-26 150222" src="https://github.com/user-attachments/assets/656d2751-33dc-4593-9161-5b3bb3130a51" />
+<img width="1892" height="391" alt="Screenshot 2026-06-26 150240" src="https://github.com/user-attachments/assets/af31024f-4a36-4591-8da3-2620e9950214" />
+<img width="1893" height="990" alt="Screenshot 2026-06-26 150203" src="https://github.com/user-attachments/assets/efc0639b-70e5-4030-9784-5b3da2efd5a8" />
+
 
 ## Overview
 
